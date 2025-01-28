@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'com.example.btvn_calculation_layout' // Thêm namespace
     compileSdk 32
 
     defaultConfig {
